@@ -1,0 +1,9 @@
+com\aem\community\core\models\HelloWorldModel.class
+com\aem\community\core\servlets\HandleClaim.class
+com\aem\community\core\servlets\SimpleServlet.class
+com\aem\community\core\package-info.class
+com\aem\community\core\CustomWorkflowProcessStep.class
+com\aem\community\core\listeners\SimpleResourceListener.class
+com\aem\community\core\filters\LoggingFilter.class
+com\aem\community\core\models\FunctionalGroupAccordion.class
+com\aem\community\core\schedulers\SimpleScheduledTask.class

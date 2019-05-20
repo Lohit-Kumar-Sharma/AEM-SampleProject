@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/com.aem.community.core.servlets.HandleClaim">
+    <OCD id="com.aem.community.core.servlets.HandleClaim" name="%com.aem.community.core.servlets.HandleClaim.name" description="%com.aem.community.core.servlets.HandleClaim.description"/>
+    <Designate pid="com.aem.community.core.servlets.HandleClaim">
+        <Object ocdref="com.aem.community.core.servlets.HandleClaim"/>
+    </Designate>
+</metatype:MetaData>
